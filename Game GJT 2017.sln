@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{38FD459A-8A38-C8AF-E0D6-62B441089670}") = "Game GJT 2017", "Assembly-CSharp.csproj", "{A8C1618C-97EF-39FB-9384-D11D86B5FAEA}"
+EndProject
+Project("{38FD459A-8A38-C8AF-E0D6-62B441089670}") = "Game GJT 2017", "Assembly-CSharp-Editor.csproj", "{E926F14E-F982-EB52-C179-3FA5BF6CEB74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8C1618C-97EF-39FB-9384-D11D86B5FAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C1618C-97EF-39FB-9384-D11D86B5FAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C1618C-97EF-39FB-9384-D11D86B5FAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C1618C-97EF-39FB-9384-D11D86B5FAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E926F14E-F982-EB52-C179-3FA5BF6CEB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E926F14E-F982-EB52-C179-3FA5BF6CEB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E926F14E-F982-EB52-C179-3FA5BF6CEB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E926F14E-F982-EB52-C179-3FA5BF6CEB74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

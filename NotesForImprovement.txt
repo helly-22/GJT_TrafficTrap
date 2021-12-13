@@ -1,0 +1,27 @@
+	NOTES FOR TRAFFIC GAME:
+
+1) Make the cars be behind each other
+2) Turning correction of cars
+3) Adding tolls
+4) Expanding area for more gameplay and features
+5) User can add traffic signals on their own. (Customization)
+6) Blocking (Road blocks - under construction blocks)
+7) Billboards in traffic signal
+8) Zoom in and out for view
+9) 2 or more thieves later
+10) XP after catching thief
+11) Second play mode
+
+
+THINGS TO DO:
+
+Testing
+Put Background Music		(Selected) (Done)
+UI (Main menu, Pause)		(Done)(To be done --- Scripting)
+
+Camera View			(2nd camera to make a decision)
+
+Time----------Important (turn time back to 0)				
+Road Blocks (Boosters)		(Optional --- Try to keep it)
+
+Animation (if needed)

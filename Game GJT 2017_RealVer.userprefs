@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Civilian.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayAgainManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoneyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WinManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TrafficButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Thief.cs" Line="7" Column="51" />
+      <File FileName="Assets\Scripts\ExitManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Civilian.cs" Line="79" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
